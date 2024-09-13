@@ -1,6 +1,4 @@
 
----
-
 # Ensemble Learning-Driven Cyberbullying Detection on Social Media Platforms
 
 ## Overview
