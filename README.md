@@ -1,7 +1,7 @@
 
 ---
 
-#Ensemble Learning-Driven Cyberbullying Detection on Social Media Platforms
+# Ensemble Learning-Driven Cyberbullying Detection on Social Media Platforms
 
 ## Overview
 This project implements an ensemble machine learning approach to detect and classify offensive and non-offensive comments from social media data. The ensemble model combines three classifiers: Large Scale Pinball Twin SVM, Integrated Fuzzy Decision Tree, and Geographical Random Forest to improve the accuracy and robustness of the predictions.
